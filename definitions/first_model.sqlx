@@ -1,0 +1,7 @@
+config {
+ type: "view"
+}
+
+
+select "Test1" as name,
+       "Test2" as Name2
